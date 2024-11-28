@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "com.example.ecommerce",
+      "package_name": "com.example.ecommerce",
+      "sha256_cert_fingerprints":
+      ["CA:18:00:5E:EA:C5:DE:D4:DE:70:86:5B:E9:90:B0:DC:B9:19:45:28:AB:60:B2:64:8F:62:A7:52:1A:4B:35:11"]
+    }
+  }]
